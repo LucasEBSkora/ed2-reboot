@@ -1,2 +1,2 @@
 # ed2-reboot
-ed2 de novo
+repositório para as ADNP de Estruturas de Dados 2 
